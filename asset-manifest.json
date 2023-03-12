@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LampShade/static/css/main.b99c26ee.css",
+    "main.js": "/LampShade/static/js/main.fcfc0e12.js",
+    "index.html": "/LampShade/index.html",
+    "main.b99c26ee.css.map": "/LampShade/static/css/main.b99c26ee.css.map",
+    "main.fcfc0e12.js.map": "/LampShade/static/js/main.fcfc0e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99c26ee.css",
+    "static/js/main.fcfc0e12.js"
+  ]
+}
