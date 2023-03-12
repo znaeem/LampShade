@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LampShade/static/css/main.b99c26ee.css",
-    "main.js": "/LampShade/static/js/main.fcfc0e12.js",
+    "main.js": "/LampShade/static/js/main.77d834cb.js",
     "index.html": "/LampShade/index.html",
     "main.b99c26ee.css.map": "/LampShade/static/css/main.b99c26ee.css.map",
-    "main.fcfc0e12.js.map": "/LampShade/static/js/main.fcfc0e12.js.map"
+    "main.77d834cb.js.map": "/LampShade/static/js/main.77d834cb.js.map"
   },
   "entrypoints": [
     "static/css/main.b99c26ee.css",
-    "static/js/main.fcfc0e12.js"
+    "static/js/main.77d834cb.js"
   ]
 }
