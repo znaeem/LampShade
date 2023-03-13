@@ -45,7 +45,7 @@ const QueryContext = (props) => {
         </Grid>
         <Grid item xs={10.8}>
           <ThemeProvider theme={lightTheme}>
-            <Item sx={{ height: 60, textAlign: "left" }} elevation={3}>
+            <Item sx={{ height: 80, textAlign: "left" }} elevation={3}>
               {props.query}
             </Item>
           </ThemeProvider>
@@ -60,7 +60,7 @@ const QueryContext = (props) => {
         <Grid item xs={10.8}>
           <ThemeProvider theme={lightTheme}>
             <Item
-              sx={{ height: 128, textAlign: "left" }}
+              sx={{ height: 200, textAlign: "left" }}
               elevation={3}
               onClick={() => {
                 var selection = document.getSelection();
